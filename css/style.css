@@ -1,3 +1,18 @@
-.center {
+.main {
+	width: 100%;
+}
+
+.main-head, .main-para, .img-para {
+	text-align: center;
+}
+
+.main-span {
+	font-weight: bold;
+}
+
+.img {
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
 	text-align: center;
 }
